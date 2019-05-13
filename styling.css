@@ -107,3 +107,25 @@ h2 {
   .transit-map {
       width: 80%;
   }
+
+
+  /* Info page  */
+
+.info-header {
+    margin: 25px 0px 0px 2.5%;
+    text-decoration: underline
+}
+
+.tips-text {
+    margin: 8px 0px;
+    font-size: 20px;
+}
+
+.schedule-link {
+    font-size: 40px;
+    margin: 40px 25%;
+}
+
+.L-map {
+    width: 60%;
+}
