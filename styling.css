@@ -18,6 +18,9 @@ h1 {
 .navbar {
     overflow: hidden;
     background-color: #333;
+    display: flex;
+    justify-content: center;
+
   }
   
   .navbar a {
@@ -31,6 +34,7 @@ h1 {
   
   .dropdown {
     float: left;
+    margin: 0px 20px;
     overflow: hidden;
   }
   
