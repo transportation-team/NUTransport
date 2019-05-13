@@ -78,3 +78,28 @@ h1 {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .left {
+      width: 50%;
+      float: left;
+      margin: 20px 0px 0px 20px;
+  }
+
+  .info {
+      margin: 20px, 0px;
+  }
+
+  .home-link {
+      font-size: 40px;
+      color: purple;
+  }
+
+  .map {
+    width: 40%;
+    float: left;
+    margin: 20px;
+  }
+
+  .transit-map {
+      width: 70%;
+  }
