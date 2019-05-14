@@ -108,6 +108,13 @@ h2 {
       width: 80%;
   }
 
+  .bottom-bar {
+      clear: both;
+      background-color: purple;
+      text-align: center;
+      color: white;
+      padding: 20px 0px;
+  }
 
   /* Info page  */
 
