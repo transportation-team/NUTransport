@@ -136,3 +136,10 @@ h2 {
 .L-map {
     width: 60%;
 }
+
+.insta {
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin: 0px 0px 0px 60px;
+}
