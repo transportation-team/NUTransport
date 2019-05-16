@@ -141,5 +141,19 @@ h2 {
     width: 40%;
     float: left;
     text-align: center;
-    margin: 0px 0px 0px 60px;
+    margin: 20px 0px 0px 60px;
+}
+
+#blue_ventra{
+  margin: 10px;
+  float: left;
+  width: 45%;
+  height: 50%;
+}
+
+#purple_ventra{
+  margin: 10px;
+  float: right;
+  width: 45%;
+  height: 50%;
 }
